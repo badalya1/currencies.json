@@ -56,7 +56,7 @@
   {
     "name": "Armenian Dram",
     "symbol": "AMD",
-    "symbolNative": "դր.",
+    "symbolNative": "֏",
     "decimalDigits": 0,
     "rounding": 0,
     "code": "AMD",
@@ -344,7 +344,7 @@
   {
     "name": "Georgian Lari",
     "symbol": "GEL",
-    "symbolNative": "GEL",
+    "symbolNative": "ლ",
     "decimalDigits": 2,
     "rounding": 0,
     "code": "GEL",
